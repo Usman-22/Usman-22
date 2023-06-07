@@ -1,16 +1,22 @@
-### Hi there 👋
+# Welcome to My Github Profile
+## this is heading two
+###### heading
 
-<!--
-**Usman-22/Usman-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. This is list 
+2. this is lit
+3. ssfaklfk
 
-Here are some ideas to get you started:
+- THis is unorder list
+- this is jsflakja
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+print("Hello world");
+int a=10;
+```
+
+to print something in python we use `print()` function 
+This is **Bold** text and this *italic* ***BOld and istalic*** 
+
+[GO to google]("www.google.com")
+
+![](https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png)
